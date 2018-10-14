@@ -8,5 +8,9 @@ changed in GIT hub
 second change in GIT hub
 
 second change in GIT
+<<<<<<< HEAD
 
 Third change in GIT
+=======
+Third change in GIt Hub
+>>>>>>> 7873cc933177f712bd54b7a71d56bc00cc1d5178
