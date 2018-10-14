@@ -5,3 +5,4 @@ Changed file in GIT
 =======
 changed in GIT hub
 >>>>>>> 45710bf13e7aef15f273dd4bf43e6cab8843bb1e
+second change in GIT hub
