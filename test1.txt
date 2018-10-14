@@ -1,3 +1,7 @@
 This is my first file in GIT
 
+<<<<<<< HEAD
 Changed file in GIT
+=======
+changed in GIT hub
+>>>>>>> 45710bf13e7aef15f273dd4bf43e6cab8843bb1e
